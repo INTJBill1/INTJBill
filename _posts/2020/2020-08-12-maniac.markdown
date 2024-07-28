@@ -1,0 +1,46 @@
+---
+title: "Maniac"
+categories:
+- "2020"
+---
+
+If you've been following my writing since 2002 or have just started in 2020, you'll agree that I LOVE to test ways to better optimize my approach in whatever I'm doing.  I won't say I'm *open-minded*, because that actually comes off as the close-minded "progressive."  If you grab someone who claims to be open-minded, have them balance on a wire—or even a 2x4 for that matter!  Not only will will they tumble down into safety net, they'll fall off the edge of that, too!  The problem is that people are...people.
+
+No, like everyone else, my mind is a closed system.  However, I'd like to think I've got an effective R&D team on staff whom understands the value of in-house development, while champions the value of outsourcing!  And frankly, most of the great ideas are already out there, even if they're obscured by dirt or wearing a silly, little mouse outfit.
+
+As part of that, I test things out.  Perhaps, I toss them before a thorough test can be completed.  I felt that way about my move away from the genre of productivity apps, but, if my user experience for 14 days is indicative of what I'd experience for the next 14 weeks, then why invest any more time into those platforms?
+
+And the thing is, there is a solution out there that works for me.  I just don't want to custom build it!
+
+Which makes a nice segue to my next topic!  After reading Payne and Barnett's *[The Economists' Diet: The Surprising Formula for Losing Weight and Keeping It Off](https://www.goodreads.com/book/show/35297396-the-economists-diet)*—a book with some good ideas, but, fails to push the envelope for my palate—it got me thinking about modularization to minimize decision fatigue.  
+
+I was reminded of being a high school kid again and my ability to bag groceries, when my friends gave affectionately the title of *super sacker* to me.  Sacking with speed wasn't hard; it was all about modularization.  In fact, I didn't have to think; I just had to react because I had rules in place while adding another set of code, my middle school Tetris on a PC.  A lot of life is that way.  We have DLL's or libraries that we import old algorithms to add to new content in solving a problem.
+
+I got to thinking further: I know how the 3AM something hour is a *great* space for personal projects and I've done just that for workouts and meditation.  Of late, I haven't felt the *push* for workouts, and my *wrastling* with Ortho GroundClear likely has something to do with that—not only did the poison's mist enter my eyes, but it also poured down my bare leg as I wrapped up another installment of *Yardwork: For The Loss*.
+
+Still, it's a GREAT time slot for projects that I cannot seem to otherwise get to in a day.  What if I use it to finally knock out my desire to develop in Python?
+
+While I'm sure I've written about it, perhaps not in this sequence of posts from 2020, my objective of weightloss is accomplished by diet.  While in the past, I wanted workouts to help drive losses further, I now recognize that in the aftermath of a training session, I want to eat *more*, and if I don't, then my body will find a way to make up the difference.  
+
+Therefore, since I don't have to workout to achieve weightloss, I can apply that time slot for any endeavor I choose.  Do I want increased stamina?  I don't have an application for that right now.  Even if I was at weight and conditioned, where would I race?  No, my time can be utilized more effectively by exploring an area that has been my Matt Damon on *Kimmel*, an interest of mine that has been kicked off my New Year's Resolutions ship, time and time again due to a lack of opportunity.
+
+If I may borrow from Ozzy:
+
+>Times have changed and times are strange  
+>Here I come, but I ain't the same.  
+>(Coding), I'm coming home.
+>  
+>Times gone by, seems to be  
+>You could have been a better friend to me.  
+>(Coding), I'm coming home.  
+>...  
+>I've seen your face a hundred times  
+>Everyday we've been apart.  
+>I don't care about the sunshine, yeah.  
+>'Cause (coding), (coding), I'm coming home!  
+
+
+
+
+
+

@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>INTJBill.com</title>
+		<script>
+			// Function to check if a reload is needed
+			function checkReload() {
+			  // Get the last reload date from localStorage
+			  const lastReload = localStorage.getItem('lastReload');
+			  // Get today's date in 'YYYY-MM-DD' format
+			  const today = new Date().toISOString().split('T')[0];
+		
+			  // If lastReload is not set or is not today's date, set it and reload the page
+			  if (!lastReload || lastReload !== today) {
+				localStorage.setItem('lastReload', today);
+				location.reload(true); // true forces a reload from the server
+			  }
+			}
+		
+			// Run the checkReload function
+			checkReload();
+		  </script>
+		<link rel="stylesheet" href="{{ "/style.css?rnd=78" | relative }}">
+		<link rel="preload" href="/fonts/Atkinson-Hyperlegible-Regular-102a.woff2" crossorigin="anonymous" as="font" type="font/woff2">
+		<link rel="preload" href="/fonts/Atkinson-Hyperlegible-Bold-102a.woff2" crossorigin="anonymous" as="font" type="font/woff2">
+		<link rel="preload" href="/fonts/Atkinson-Hyperlegible-Italic-102a.woff2" crossorigin="anonymous" as="font" type="font/woff2">
+		<link rel="preload" href="/fonts/Atkinson-Hyperlegible-BoldItalic-102a.woff2" crossorigin="anonymous" as="font" type="font/woff2">
+		<script src="https://www.gstatic.com/charts/loader.js" type="text/javascript"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+		<script type="text/javascript" src="/js/nav.js" defer></script>	
+	</head>
+
+	<body>
+		<div id="container">
+
+			<div id="logo">
+				<h1><a href="/">intjBill</a></h1>
+			</div>
+
+			<div id="content">
+				<div class="topnav" id="myTopnav">
+					<a href="/">Home</a>
+					<a href="/diary/">Diary</a>
+					<a href="/goals/">Goals</a>
+					<a href="/fit/">Fit</a>
+					<a href="/me/">Me</a>
+					<a href="javascript:void(0);" class="icon" onclick="myFunction()">
+					  <b>↓=</b>
+					</a>
+				</div>
+				
+				{{ content }}
+			</div>
+			
+			<div id="footer">
+				<p>&#169; 1997-2024</p>
+				
+			</div>
+
+		</div>
+	</body>
+</html>
+
+
+
+		
+
+
+
+
+
+
+		
+

@@ -1,0 +1,13 @@
+---
+title: '"Throw Away the Radio Suitcase"'
+categories:
+- "2018"
+---
+
+I feel the weight come off my shoulders with my exit from Google's ecosystem.  It's nice to fire up ol' Firefox.  I just want a browser to be a browser, not a gateway drug to corporate machinations. There have been many browsers and versions of browsers along the way for me, beginning with Netscape 1.1.  It was my senior year of high school, that autumn night when I returned from sacking at Piggly Wiggly Bartlett or hanging out after wrestling practice with friends at Piggly Wiggly, when my conception of computers would explode from the family PC and my own computer in my bedroom: a hand-me-down, 40MHz, IBM-compatible AT—old, but much faster than the Tandy 1000's at school with no HDD, along with my coding and my non-extensive sneakernet, to a vast world of connections and hardware.  We don't even think about it in 2018, but in 1995, it amazed me that I could access a computer in Japan or Europe—or Alabama for that matter!
+
+Sure, I wish back then we had the tools that are there today.  Things were more difficult—or, not as easy, I guess.  Even a year later with my college class registration in late 1996, I had to use a phone to punch in my class registration in an era slightly before the ubiquitous distribution of phones. While beepers would soon lose the throne, I specifically remember pulling to the side of the road for a payphone during my registration timeslot to punch in my class codes for Spring 1997.  And that was pretty high tech at the time for a year before that, students had to wait in long lines for a REAL human to request class enrollment.  I remember even logging into a VAX terminal while in my university's library to check my school email for there was no web interface.
+
+But, tech should be considered as tools in a toolbox.  There seems to be a shift in our culture where tech is identity.  We aren't hammers; we aren't power drills; we aren't sanders.  Yet today, we seem to be just that in these tech ecosystems (which is crazy in of itself) to function as a cog in the greater system.  We are seemingly locked into our smart phones for instructions; we're imprinted with hashtag commands. I could go on and preach on how this changes us individually and humanity overall: the frustrations; the expectations; and the fracturing and subjugation of ethos and love...
+
+...but this is a Sunday morning and I'm feeling...FREE!

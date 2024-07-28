@@ -1,0 +1,22 @@
+---
+title: "Sunset 8: Gearing Up For the Afterlife"
+categories:
+- "2021"
+tag: tech
+---
+
+Late last night, I worked on a project that ultimately failed at extending the value of my second Chromebook.  While its specs are higher than what I wrote last, namely +2GB RAM with a larger display, it just doesn't have the same *feel* as my smaller machine.  The display is not as sharp and it just feels...well, the Chromebook equivalent of a Wonderbread bag—hey, I don't come up with the analogies, I just write about whatever pops up in my head!  I installed LM 20.2 Cinnamon on it as well, though I gave serious thought about plopping System76's [Pop OS](https://pop.system76.com/) on it.
+
+Perhaps, it wouldn't be fair to say that I failed inasmuch I cut my time losses.  See, I wanted to install the [Logos Bible suite](https://www.logos.com/).  You may recall my Logos purchase years ago.  I wrote a post with passion, incidentally entitled the year ol' Martin Luther hammered on those church doors: *[1517](https://intjbill.com/logs/2017-04-24-1517/)*.  The post gives me pause as I reflect and wonder how I've let that fiery passion for eternity slip.  I like to leave words behind as reminders for Future Me.
+
+Logos isn't available natively on Linux.  There's a lot of old .NET gunking up the platform.  That said, after testing it successfully in a virtual machine, I used the docs from [Wine HQ](https://appdb.winehq.org/objectManager.php?sClass=version&iId=39484) and got it running through the Wasta-Linux option.  I didn't know anything about Wasta-Linux, but I was delighted to see that it comes out Ethiopia for with their focus on teaching literacy and translation in NE Africa, tt is a distro headed up by Christians [www.wastalinux.org/home/why-linux/](https://www.wastalinux.org/home/why-linux/).
+
+The other day, I ran across an "anti-fascist" distro.  I mean, why not?  We already have a search engine that touts its deep-rooted liberal bias every chance it gets, might as well have operating systems peddle their own agenda....sheesh. Do you mind if I just hook up a printer real quick without a discussion on the 2nd amendment? May I search for my buddy's *Transformers* fan page and not be hassled by the propaganda panhandler?  Sorry, pal.
+
+Back on point, yes, I could run Logos in a VM.  Could I run it on a Chromebook? Technically yes, but technically no.  After a LONG installation of the environment, Logos installed and wanted to install a minimal library.  A "minimal" library that was to be about 8 GB.   *sigh* Yeah, I was down to 2.9 GB and that was after removing my Internet browser, LibreOffice and anything I could rip off to make it lighter.  Perhaps if I stuck with it, I could have got it working or used a USB drive as a home drive—there's all sorts of possibilities to try.  Linux really beats out Windows when it comes to all the goofy things you can do with it—hence why it's in everything in one form or another.  I could *easily* argue that people interact more with Linux than they do with Microsoft and Mac stuff COMBINED.  Easy debate.  Thank you Internet and all of your Things...I think.
+
+In the end, running Logos on my old Chromebooks is a nonstarter.  It's not a showstopper, overall, as Logos has an online workaround, but I always bristle at limited setups that try to emulate the real thing as opposed to a limited setup that does it's own thing.  It's like how periodicals used to push its online presence to look like its print version when those two things are entirely different.
+
+Of course, the question I ought to ask if is I really should run with Logos in the first place, but that's a debate still in my head that no doubt will eventually spill out onto here.
+
+I bring all of this up for kicking off on December 1, I'm going to do a 900-day Bible adventure across the wilderness of the NT.  No, that wasn't a typo:  900 days.  While I may have referenced it before, the idea has been in my head for a bit and I want to align with the first of each month as I tie it together with my other objectives.  I basically have a passage of scripture that I read each day, then I'll repeat that passage each day thereafter for the rest of the month.  Divvy up the NT equally by 30 and that's about it.  Months ago, I forked the idea from John MacArthur from one of his early messages from the 70s I guess?  I may even line up commentaries for each section I read).  I'll be dropping the schedule on here shortly, but it kicks of in December with 1 John 1 through Revelation 4.

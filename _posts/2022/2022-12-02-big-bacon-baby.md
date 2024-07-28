@@ -1,0 +1,15 @@
+---
+title: "Big (Bacon) Baby"
+categories:
+- "2022"
+---
+
+When I recall age 18, the year 1996 and college, my mind whips arounds across a lot of music. *Television's Greatest Hits, Vol 6, Remote Control* is unavailable on Spotify, but it is listed on [discogs.com](https://www.discogs.com/release/7324921-Various-Televisions-Greatest-Hits-Volume-6-Remote-Control). For me, the track that SHOULD NOT BE PLAYED by an 18-year-old is the opening to *[Hardcastle & McCormick](https://www.youtube.com/watch?v=_oHpWw7L3d4)*. I'd whip around campus with my standard transmission in those days!
+
+I'd walk into the University Center and pass the music kiosk. This was in the age when they sold cigarette packs in the snack machines in its basement next to the pool hall (the place where I blew off Honors English).  And yes, you could get a cup of hot coffee from a machine over in the business building from a vending machine with a fake wood veneer. Along with featuring Nada Surf's album with *Popular*, the kiosk echoed *Press Play* off of the Stone Temple Pilots' *[Tiny Music...Songs from the Vatican Gift Shop](https://open.spotify.com/album/2JJEIN6LvQJQTJDfnYdDAe?si=cp6LaCV7RO-Arxhd6G1bhQ)*, a song that was a subtle introduction to the start of something very new.  
+
+These were before the days of MP3s, although if I were to believe [this article](https://medium.com/@martinmignot/as-the-music-industry-recently-announced-its-first-annual-revenue-growth-after-15-years-of-115e424338f), this first MP3 (it was all unlicensed in those days) was on August 10, 1996.  While I downloaded a treasure trove of MIDI files in '96, I think across my first MP3 was when I ran across a website linking Garth Brooks in either late '97 or early '98?   I was blown away at its relative small file size, for at the time, I had downloaded bits and pieces of WAV file, an eclectic collection of movie quotations.  And again, this was in an era before broadband—heck, it was even before the 56k modem!  My virtual world was bridged by a 33.6k modem. To place it the culture's larger context, I began burning my mix CDs before Napster was released in '99.  And yes, I was among the 250,000 or so banned by Napster for downloading Metallica (I owned all of their studio albums on CD at that point; the Napster fix was easy:  just delete the registry key and create a new account).  But, that was the era, an era of *Reality Bites*.
+
+It was an age where broadband speeds weren't in our pocket, rather I spent hours on the university network.  I'd log into a VAX terminal to access my email with a password that had to be exactly 6 characters:  (picard and ltdata).
+
+And yes, I had a presence on the Internet in those days, a homepage off of WBS chat in '96.  It featured a MIDI playing of *Who Wants to Live Forever* and my high school senior year portrait, the same that was kept by the photographer as an example of their work (I guess it didn't feature my double Windsor knotted Picard tie).

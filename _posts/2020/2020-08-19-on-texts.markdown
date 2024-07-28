@@ -1,0 +1,19 @@
+---
+title: "On Texts"
+categories:
+- "2020"
+---
+
+In all of my coffee rabble about our digital state, I failed to mention my success in implementing DataTables within this Minimal-Mistakes theme, [something I last referenced a month ago on July 18](/bad-company-rock-n-roll-fantasy-79/).  While I initially thought I might have to include another source of jQuery—which, looking back, makes no sense, but, LIFE, has never been advanced by the Monday morning's armchair QB.  Ultimately, my calling forth the script is where everything fell apart.  I couldn't call it via a script tag inside the markdown (and for what its worth, I've found markdown tables to be unsortable), so, I have included it in the <head>.  Not the most elegant solution as its on every page, but, if I ever wanted to call a table using the same ID on a different page...booya!
+
+And NOW, I have a sortable and searchable table of [My Reading List Since May](/books/#book-titles)! I even went back and added a Goodreads URL for each title.  And while hand-coding the HTML for this sort of thing might come off as daunting, all I had to do was use the columns I already had set up in Libre Calc, add another for the URL, and stitch it all together beautifully via CONCAT and copy it all down for the 116 entries.  And for you who are playing at home:
+
+    =CONCAT("<tr><td>",A2,"</td><td>",B2,"</td><td><a href=",CHAR(34),G2,CHAR(34),">",C2,"</a></td><td>",TEXT(D2,"yyyy-mm-dd"),"</td><td>",E2,"</td></tr>")
+
+I'd like to add some sort of *favorite authors* feature, but, I don't know what that would look like.  I would be wholly against any sort of ranking feature of titles as I think that is impossible to do—well, not in terms of a number or a star, any more than I find it amusing that we use a quantitative system to access qualitative success.  
+
+Regarding that system, honestly, even a PASS / FALL system is hard to justify unless there's some sort of baseline rubric like...a class on  swimming:  if the student drowns, that would garner a failing mark.  But, as to the rest, if the student comes away from the experience gaining a new insight, did they fail?  If Michael Phelps jumped in the pool to join the class, wouldn't it be exponentially harder for him to pass the class within the rigid confines of a rubric, for what could he learn? *(beyond observational studies of the flailing failure of humanity)*  And if a student does not learn in a class, he has failed...which is ridiculous as Michael Phelps was the most dominant swimmer of all-time.
+
+And whether it was high school, undergraduate or graduate studies, I've never valued GPA anymore than something that could get me from point A to point B in as few as many steps required. GPA in of itself has no intrinsic worth.  
+
+I realized that tests were not for learning (growth) assessment.  They were just cute games of trivia where an instructor attempts to trick students into answering incorrectly.  Papers and essays were fundamentally a participation grade, which assess no one, for writing is a craft that takes practice, practice, practice (via consumption) and essentially is a vehicle that cannot be improved in a one-shot, 5-page paper.  And yet, this is exactly how growth is assessed!  Such a paper's merit is graded on its variance from the topic within the scope of its approximation of the MLA format.  FORMAT!  The thing is, that's an easy thing for an instructor to assess; ideas, however, are notoriously difficult to grade.  You can have a technically great paper that argues for a really dumb idea.

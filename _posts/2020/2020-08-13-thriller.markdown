@@ -1,0 +1,21 @@
+---
+title: "Thriller"
+categories:
+- "2020"
+---
+
+While I've made my return to Goodreads these past few days, it's proving *not* to be a good fit.  Whereas LibraryThing provides recommendations based on the books entered, Goodreads chose to punt that obvious in lieu of user ratings of titles—I get it, gotta feed that Big Data machine.  So, as a user with 110 entries, I get NO recommendations.
+
+Should I go back to my ul/li approach?  It's far too unwieldy and I cannot seem to implement DataTables as its broken with this particular Jekyll theme—even if it was working, I don't think I would be satisfied in both its rendering and its update process.
+
+I flirted with returning to WordPress and gave it a go overnight, but, it's hard to beat GitHub Pages as it relates to price (free) and security:  these are flat files.  Eastern European and Chinese Bots were my prodigious readers with WordPress as my CMS! 
+
+Once I import my books into LibraryThing and clean up its data, I'll likely shutdown my Goodreads account;  it fails to meet my demographic and aptitude expectations.  That said, I'm also testing out a new player on the block, [TheStoryGraph.com](https://thestorygraph.com/), though my first impression of it, is that everything is just *too* big.
+
+Speaking of testing, I considered signing back up with Habitica, not for the site itself, rather, I wanted to evaluate the things that work and the things that are underwhelming as I develop my own desktop platform to parallel my studies in Python (ultimately, however, I didn't want to be influenced by Habitica's approach).
+
+Along with a task RPG, I'd also like to develop an alternative to Gnucash.  I've loved it for years, but, it could made more effective in providing information for decision making.
+
+Two ideas to sharpen my skills—HEY, learning is FUN when you've got Nassim Nicholas Taleb's "skin in the game!"
+
+>Let us return to pathemata mathemata (learning through pain) and consider its reverse: learning through thrills and pleasure. People have two brains, one when there is skin in the game, one when there is none. Skin in the game can make boring things less boring. When you have skin in the game, dull things like checking the safety of the aircraft because you may be forced to be a passenger in it cease to be boring. If you are an investor in a company, doing ultra-boring things like reading the footnotes of a financial statement (where the real information is to be found) becomes, well, almost not boring.

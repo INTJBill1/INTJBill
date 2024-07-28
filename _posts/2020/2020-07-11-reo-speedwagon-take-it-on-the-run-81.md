@@ -1,0 +1,12 @@
+---
+title: "REO Speedwagon - Take It on the Run '81"
+categories:
+- "2020"
+---
+I've made a clean break from FitBit. I began leaning that way when I became nauseated with its requirements for my location data while syncing steps—yes, I know, FitBit claims that Google requires location data to sync, but, in an environment where location data makes profit why do I happily (and naively) hand it over? I had second thoughts about deleting my FitBit account—I even drew up plans for a syncing alternative. I did that, until I ran across an article: Google fully intends to buy FitBit. Well, that makes my decision easy to make. Nothing to see here: Silicon Valley's go-to business model is to have its users be the product.
+
+I don't mind Google's products. I make use of its Google Charts and I like its open source OS on my phone. And I recognize that in the virtual world, I gotta walk by Google, even if I never visit its search engine. And as the virtual realm and reality coalesce into the ubiquitous Internet of things, maybe it'll be impossible to avoid it IRL, even in a longship across a fjord.
+
+When I was a teenager to college graduation, that decade from 1991-2001, when I woke up each morning, I didn't immediately care what was happening across the city or across the world. And when Tom Brokaw came on the air at night, I didn't take a dopamine hit. I've been off social media for a good while now, but this recent departure from news media has me jonesin' for a fix. "I gotta know about all that is oh so not relevant to my life!" Why must I always be plugged in? Why is it so important for my data to be mined by Google, Facebook, etc, while new data is uploaded into my consciousness by those same players?
+
+Now, clearly, there's some great applications of having a solid source of information, something like *The Economist*, to hear perspectives and events that we generally miss out on. Furthermore, I enjoy taking approaches in one arena and applying them in another. That said, of late, I just get a vibe from most news media that it's all about command and control. And maybe it's my INTJ slant, but, I grow weary of the 24-hour appeals to emotion cycle. It's just a matter of time before we are all inserted into a Sally Struthers surrogate, waddling out and pleading to one another to feed the trolls in the ever-so-deafening roar of Paul Simon's "ten-thousand people, maybe more, people talking without speaking, people hearing without listening."

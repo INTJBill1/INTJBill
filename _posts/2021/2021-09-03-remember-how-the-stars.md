@@ -1,0 +1,17 @@
+---
+title: '"Remember How the Stars Stole the Night Away"'
+categories:
+- "2021"
+---
+
+On this day in history, my parents eloped to Vegas in 1970. In 2001, I graduated with a bachelor's degree. I eloped to Vegas in 2005. In 2012, I graduated with a master's degree.
+
+NOW on THIS day in history, I weigh in under 200 lbs. At 197.5, I am the lightest I have been in 16 years! And five of those years had me well above the 300 lb mark!
+
+It's surreal to finally return to this place—it's like I hitched a ride on the DeLorean. I pulled it off by achieving the largest Expeditionary weightloss by percentage (5.95%) since the initial, keto kickoff back with The 13th (8.3%). To put things in perspective, the pounds I lost in the last six weeks is about the same as the last three Expeditions COMBINED, spanning back from January.
+
+How did I do it? I continued with carnivore, but I was more sensitive to hunger / satiety signals as I avoided overconsumption—food isn't a party to attend! I backed off the chicken wings via the air fryer for this very reason. My day-to-day for the last six weeks have basically been an iced coffee 30 oz tumbler with 2 tbsps of kerrygold butter, 1 lb beef and a second tumbler. Some days, I substituted one of the tumblers with an iced hibiscus or black tea. Some days had eggs, but it really depended on what my body asked for. Some days I couldn't even finish a lb of meat! When I recently bungled through krill oil supplements, there was a day I ate nothing with the exception of a handful of the protein sparing bread! Yes, my progenitors CLEARLY did not consume much krill!
+
+Of course, all of that is about the past. I love it and celebrate it, but this whole Expeditionary thrust is about reaching toward the expansion of the horizon in becoming the best version of me. It's time to move on to the next Expedition: *23: The 90s Are Back*!
+
+And yes, my BMI now officially lists me as "overweight." It's been a long road from that class III morbid obesity BMI marker of 48.9! But, the night beckons and I gotta ride...

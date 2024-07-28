@@ -1,0 +1,13 @@
+---
+title: "Underworld: Blood Wars (2017)"
+categories:
+- "2018"
+---
+
+I finished up the Underworld series.  The movies are not as bad as the critics say—they're exactly what I would expect from a series with a female protagonist with a bunch of gunfire and martial arts amidst a roomful of vampires and werewolves.  It's not exactly the vehicle for high brow drama. The series does get a bit repetitive, but I'm not sure if it is possible to go beyond its parameters.  I would have liked to see it evolve further, but at what point does it become derivative of Ethan Hawke's Daybreakers?
+
+I've absolutely hit a wall.  I began feeling elements of it yesterday, but I just figured it was remnants of my fast-paced chest routine with cardio from the other day, something I'm feeling right now.  It wasn't a complicated workout, just a 4×12 press & flies as inciine, bench, and decline—my muscles remain sore this morning. But no, the wall I'm pushing against is major fatigue, not taxed muscle (though it is sprinkling on top).  I went to bed early—before sunset, yet at my 3:50AM alarm, I still dragged myself out of bed.  And it was a spirit-challenge to push through the morning cardio.  It wasn't the intense 2 hours that I want, but I'll take it as win, simply in that I went into the workout and didn't quit.  It's a good streak to maintain: 52 planned morning workouts in a row.  It's been six days a week. And that's not including the Sundays thrown in there, along with an armful of lunch workouts.  But, the 4-6AM is the core.  So, I've got that
+
+It is very likely my new diet contributes to this, perhaps the drop from 30 to 20 net carbs, or 70+ total carbs to 43.  I feel like I'm hydrating enough and I've upped my potassium from 100% to 112%.  My sodium is 868mg when all I need is 500mg. I guess I'll just have to sit back and see how this will play out and see if there are any micro adjustments that are needed.  On the plus side, since making this shift, I have yet to experience of wave of dizziness when I get up.  I've been experiencing that for the last week or two on my last diet, maybe once or twice a day.  It was no different from what I experienced in long term fasts.  Back then, I would have to remind myself to take in a couple of quick deep breaths before moving, not unlike how a power lifter would prep.  So in this new diet, another win there.
+
+I remain in a bit of a transition.  I wish I could burn all of this fat faster, but BMR can only do so much.  And it's only June, the 4th Week of The Second Expedition.

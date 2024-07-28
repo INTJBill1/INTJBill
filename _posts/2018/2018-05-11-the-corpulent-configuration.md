@@ -1,0 +1,17 @@
+---
+title: "The Corpulent Configuration"
+categories:
+- "2018"
+---
+
+I love Fridays. It's not for some silly lessening of responsibilities. No, it's for a simple pleasure: to refill my vitamin weekly dispenser. You see, I take 5 units of vitamins, some full tablets, some halved. I also take iodine droplets, but I'd prefer not to lick the dispenser. The great thing about me, is that I don't take any toxins prescribed by some guy with a BMW in the parking lot. When life sucks, I either find solutions or just grin and bear it. As I have high blood pressure, I know how to fix that: reduce sodium, shred the fat off, and put the good stuff in. It's about proper maintenance of this machine I'm commanding. It just makes sense to pour in the high octane fuel of a nutritarian diet. Shake cheesy poofs down the gullet and I'm going to get cheesy poofs results. I mean C'MON, "Because I ate donuts that made me fat, I feel sad and pathetic so I better eat a donut."
+
+I guess I feel particularly inspired because I used a temp FB account to bookmark people I'm considering to add in September; I don't want to sit there and remember; rather, I can just blow up my browser with open all tabs. I haven't looked up folks in awhile since I've been unplugged. Wow, what happened to everyone my age? I mean, I get it, growing up, I was a fat kid—not the fattest of my grade, but I was at least in 2nd or 3rd place. Not that it took a lot back then; everyone was tiny. Then came the summer of '92 before high school when I dropped twenty lbs and grew two inches—suddenly I was like everyone else. I even graduated from high school lighter. Still, throughout that time, I saw a lot of seemingly healthy-looking friends. Today, almost to a T, EVERYONE ballooned, sans the few whom seemed to have realized the keys to victory early on. Truly, it's an epidemic: EVERYONE is getting pudge face! I mean, the next time I go bowling with my friends, I won't need a bowling ball, I'll just roll one of them down the lane!
+
+Ok, that analogy was harsh, but I can speak from it, because I'm exactly that right now. I made the post-college gains, but tore that down by 74 lbs through veganism, but until now, I never could shake the marriage pileup. But, now I have both the knowledge, the passion, and the fortitude to do what is right. The only thing left is the time for it all to play out. Come Monday, there will be the metrics of the progression, a first volley onto the onslaught.
+
+Still, it is...shocking, for me to see people whom I've known all my life to be healthy to look...like the Stay Puft Marshmallow Man. At least I had the excuse of a chunky childhood with an endearing nickname of Brick from neighborhood football...but, you guys, smh.
+
+To everyone's defense, I drove by my alma mater, the University of Memphis, around noon one day and I was appalled by how fat everyone was. There they were, in the easiest years to be in shape of their life, waddling on campus while mesmerized by their smart phones. Simply wasn't the '90s, I can say that! If that's what we look like now in the physical prime of our lives, no wonder my peers look like they can be bounced around at a beach.
+
+And to my friends, I implore you: "a lil' mo' ca-dio!"

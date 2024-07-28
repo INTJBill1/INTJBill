@@ -1,0 +1,13 @@
+---
+title: "Gunship — Dark All Day"
+categories:
+- "2018"
+---
+
+I don't know what I was thinking. I CAN'T get rid of my desktop.  In a high school world that was once only jocks, cheerleaders, and the Greek chorus, I was the chief computer geek.  How can I rail against a desktop? I mean, I was typing up BASIC from a book when I was 5—which is a quick segue to my next point...I'm returning to C.  Way back in college, I took a C class.  At the time, I had a lot on my mind and didn't put much into it (unfortunately).  Since C is the foundation of so much, I'm returning to it.  Now, will I be a coder or is this just another passing interest for me—a ship of the night of intellect.  I do that: I become keen on an area and begin to develop it, but I see a shiny new interest and I'm off to explore it.  A part of me wishes I was the type that could stick to one discipline and fully find my potential within it.  But, I am in reality like I am in MMORPGs, a hybrid class.
+
+I really need to buy a new workstation one day.  Back in 2015, I bought a Dell Optiplex 780 for around $80 off of eBay.  Cheap price for a business class computer, a model that I once supported.  Clearly, it was OLD when I bought it, but for my needs, it was fantastic, even if it had a DVI video card with no HDMI outputs.  I would have figured by now that its hard drive would be ticking away and it's why I've got a WD NAS to throw files toward.
+
+...but honestly, do I need a big rig with enough processing to punch me in the mouth?  I don't do PC gaming anymore—well, maybe an addictive round or two of Civ V off of Steam—even that, I haven't done this year.  I'm actually content with what I have—well, I like to wipe Win7 off of it and throw Linux Mint back on it—oh, the illusion of contentment!
+
+I'm not a fan of midday workouts at the gym.  Whether its late at night or in the early morning, I'm definitely the kind of guy that likes to train when the moon is out and the world is asleep.  On Saturday afternoon at my town's gym, it just wasn't the same as this past week.  There was just way too many people out, too many cars, too much...known.  The night has an indelible mystery of its own.  But my gym opens at 8 on Saturdays and 1pm on Sundays.  SMH.  It's likely that sometime soon, I'll sign up with Anywhere Fitness so that I can have my weekend gym.  Admittedly, I love that Fitness Your Way privilege from my insurance.

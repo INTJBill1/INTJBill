@@ -1,0 +1,15 @@
+---
+title: "Dust in the Bin"
+categories:
+- "2023"
+---
+
+I have been considering the rest of the year and how I might shape it.  Yesterday, I had plans for today's post to be about how I went heavy on a bloodthirsty, autodidact build.  Plowing through a UFC Fight Pass, my focus would then turn toward a tour across audiobooks.  I would write how I recreated a LibraryThing account for tracking purposes and entered all of the books from 2020 and 2021.  Yet, I leave the audiobooks construct behind; I deleted my LibraryThing account.  It was from a time in my life when it played a critical role in bringing me here.  I have moved further down the path.
+
+This was then.  Things have changed.   Last night, I ate.  And ate.  And ate.  Cold chicken wings.  14.6 ounces—over 3 days of what I would usually eat of that!  OK, so it was only 10-11 wings, but in my macro world, it was a LOT.  And cold chicken wings...well, it is simply NOT the sort of thing ANYONE binges on!  Later that night, I knocked back some fried-up prosciutto.  For the day, I had 270 grams of fat and an astounding 169 grams of protein, far from my target of 75. 
+
+I do not know what it was.  My body might have wanted to ramp up repairs or maybe it recognizes that chicken is not beef for something is lacking with chicken.  Then again, it might have been something else entirely. 
+
+I woke up today before my 3 AM target, around 2:30.  As I lay there, I instantly took my percussive massager to my lats.  My discomfort was not derived from Monday's Back day, but Wednesday's Leg day.  On that day, I felt like my form was wrong as I was not getting as low as I should have into my squats while I held the weights.  Seems like my two days later verification was right!  Nevertheless, I bounced into the garage 15 minutes early, did a longer shadowbox session and hit the Arms workout.  I even felt like the weights were lighter than last week!  Sure, there was discomfort in my back, but it was just a reminder to me how that area has been flagged for further enhancement.
+
+I pulled up into the BRC parking lot.  I sat there for a moment.  I got out, my car door puncturing the solace of the pre-dawn morning.  Was this the last time?  I looked across the meadow and saw the lights of the remnants of my family's print shops.  Just beyond the treeline, there was the locus of a blown-out candle.  The gym never was what it was supposed to be, but was a worn memorial to what once was.  Instead of a place of vigor and renewal with a friend, it was a place of loneliness.  I circled along the track as the "49ers" were warming up for their circuit training, a resounding metaphor for Bartlett today.  A Van Halen song that once was a song on my Casper Creek drive OST echoed across the rafters.  And then, *Dust in the Wind* haunted the space.  I did not fight back my response and even took off my Dunder Mifflin Paper Company ballcap.  I let the song play in its entirety.  I then hit the doors.  It was over. 

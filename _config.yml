@@ -1,0 +1,39 @@
+title: INTJBill
+
+# Build settings
+# markdown: kramdown
+
+# Outputting
+permalink: /:year-:month-:day-:title/
+
+disable_disk_cache: true
+
+timezone: America/Chicago
+paginate: 3
+paginate_path: /page:num/
+
+kramdown:
+  smart_quotes: ["apos", "apos", "quot", "quot"]
+  typographic_symbols: {hellip: ...}
+
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
+
+include:
+  - _pages
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: page

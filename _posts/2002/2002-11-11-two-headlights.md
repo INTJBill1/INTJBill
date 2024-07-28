@@ -1,0 +1,23 @@
+---
+title: "Two Headlights"
+categories:
+- "2002"
+---
+
+As he finished up a conversation with his roommate upon matters of their daily existence within the realms of relationships and reality, doors and depression, and of women and woes, his other roommate enters the house with a joint female friend and expresses concern about a Cadillac-like vehicle with a car-load of occupants driving suspiciously slow from one end of the street to the other repetitively.
+
+Initially, he did not share his roommate's fears, despite the known characteristics of their low-income neighborhood. Yet, once he read the face of his roommate, the general alarm was sounded within his head and he strapped him 9mm onto his belt and threw on his shoes- in that order. It was time for a little recon.
+
+As he approached the street, he heard his roommate from the porch give a phone call to the police. Halting at the sidewalk, he took note of the vehicle, it being at a standstill about four houses down in the middle of the street. It was a late model Buick, built like a tank, and had an apparent light blue color for aesthetics. The engine was running and the lights were on as it faced the opposite direction.
+
+He stood upon the sidewalk his with arms folded. The cool November wind blew softly against his face. His sidearm's safety was off and was ready to be unholstered within a moment's flash. He felt his body intuned with the environment and found steady breath emanating from his lungs, an increasing heartbeat, and a tightening of muscles that were moments ago relaxed in conversation with his roommate about women. Clarity of thought was at his disposal from his martial arts training of ago.
+
+As the minutes passed, the Buick slowly turned into a driveway, and backed out awkwardly to finish the U-turn. It moved into position to be face-to-face with him and moved to be two houses down from him and was slightly angled in his direction. The car stopped. Time began to creep. He stood there, not knowing how much time was passing, but understanding that this was no ordinary situation. He took a quick check of his environment: no threats along the sides of the street, a fire hydrant five yards ahead of him that might be used to dive behind if the situation turned deadly. Yet, it would not provide much protection if the Buick did race forward. The bright headlights upon him cast a foreboding halo about the car.
+
+He felt his knees quietly tremble while his heart pounded at a higher rate than before. Within the span of a couple eye blinks, he wondered what it would feel to have gun shots sear through his flesh. During this showdown with the occupants of the car, one might expect that his life would "flash before his eyes" like all of those stories we hear about or that he may realize some uncorrected wrong in his life. Perhaps, a better appreciation for life would be gained or just an overwhelming desire to live would come beckoning- no, pleading him to take flight. Yet, none of these thoughts entered his consciousness. There was a problem that must be solved and there was no one else who could do it. Aggression coupled with impatience reached its pinnacle at the situation. It was time to take the initiative. It was time to end the fear invoking habits of the Buick and its car-load of occupants.
+
+With an accelerated walk, he took a straight line movement to the car's 10 o'clock position and headed for the driver's door. Movement from the right caused his eyes to flash in that direction, but it proved to be a neighbor who was brought outside by the odd behavior of the Buick. With his right hand tingling, he approached the driver's window.
+
+It was a black woman in her late thirties at the helm. He said something to the effect of "Can I help you?" and though she responded, the window proved to be a barrier of communication. He took note of another black woman who was sitting on the passenger side. Though it was dark, he seemed to distinguish that those in the backseat were youth. As the car moved an additional ten feet down the street, a window was rolled down and she called out a question concerning a street number, a street number that was well past the location where she had traversed, a street number that matches an alleged drug house on our street. Though he no longer perceived the Buick as a threat, he still felt they were upon ill will and thus he attempted, from a distance, to send her out of the neighborhood with the directions he gave. As the Buick drove off and as he walked back and entered his dwelling, the police cruiser pulled up and the other roommate went out to talk to the officer.
+
+9 1/2 months more to go....

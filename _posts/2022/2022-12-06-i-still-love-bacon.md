@@ -1,0 +1,25 @@
+---
+title: "I Still Love (Bacon)"
+categories:
+- "2022"
+---
+
+Over the weekend, I successfully made the push to migrate all 581 posts on this site to Wordpress.  I grabbed the XML template from [Step 1 here](https://www.fivefilters.org/2021/how-to-migrate-a-jekyll-blog-to-wordpress/), let my site be rendered in Jekyll, and ran WP All Import.   I had to back-track and edit the XML template because the URL to EVERY link I ever posted had my domain name prepended to it!  While Broken Link Checker is a fantastic tool, it can be disheartening to see I gotta fix 300 links.  Nevertheless, I saw what was broken and fixed it.  It even gave me the chance to yank all of the *smart* quotes and *smart* ellipses nonsense that sneaks their way into my words.
+
+And thus, I had my site running sans these old rhymes I keep lugging around.   And while I have 581 posts, gone are the 150-160 from 2019, lost are 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2014, 2015, 2016...tomes on the shelves of my past places...come to think of it, I must be on my eighth or ninth domain name.  And to its credit, this current one has had the greatest longevity.  That said, time moves a lot faster these days.
+
+And yet, I'm now back to relying on Jekyll to generate my code into static pages.  More on that in a moment.
+
+Currently, this website's TLS certification is broken until tomorrow for the subdomain www—its bare is fine.  TLS is that lovely thing that gives me my HTTPS.  Yes, it's pure vanity to have for a static website.  All the *flip, flop, the flippy, the flippy to the flip flip flop* that I did between Wordpress and Jekyll made [Let's Encrypt](https://letsencrypt.org/) breakdown and sob long into the night.
+
+The thing is, I gotta remind myself that Wordpress is slow and forever needs to be patched and re-patched while at the same, they don't release a long term support (LTS) version.  When it comes to LTS, there are Linux releases that the ensure the user can use the same operating system for the next 5 years as its code would be maintained.  There's no Wordpress LTS; stuff just happens to you. 
+
+For me, the strength of Wordpress lies in its plugin system where I can extend the functionality of a system, plugins that are built by authors who apparently have a greater mortality rate around buses or there's words nestled away in the Wordpress Codex that when read aloud after drinking a Monster drink at night, it creates a vortex to suck them out from this plane of existence.  Yes, I'll find a plugin that I like that soon gets abandoned.  And if there wasn't security holes when the thing was created by a guy hopped up on stale pizza and a case of Nattty Light, then it's sure going to have one when the plugin is alone.  
+
+I've read that Wordpress makes up about 40-60% of the Internet—I get it, it's free and easy to use.  And not everyone is curious to run a speed check by Pingdom on their website—[I just got a 98 A!](https://tools.pingdom.com/#6139fd1bd9000000).  Wordpress is great for a large site littered with comments.  But for that guy and his weasel swatting service and his 5 pages with all that white space?
+
+Ultimately, even if all of that stuff was in order, I feel like my content is lost in Wordpress.  It is somebody else's space; it is shoved piecemeal into a shaky database.  While Jekyll generates the tags to make my Markdown shine, I am in the drive seat.  And I can go in any direction with making my template, which for now, it is such a simple one.  Not even a single DIV!  If I cared to spend the type, I could have literally type up the code by hand.  Check the source—VERY readable.  Its CSS could be revisited as I'm not using the "accent" variable, but I basically treat the BODY tag as a DIV; I don't know of anyone who has done that, but in the context of an HTML tag, isn't that what BODY's role basically is?  
+
+And while this site is purposely basic, I have not built it to be read by Netscape Navigator on August 19, 1996, the day version 3.0 was released, for CSS wasn't a thing in those days!  Yes, August 1996, the first footsteps upon my travels through the forest of college. 
+
+In 1996, *[KISS' MTV Unplugged album](https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y?si=_4N_KthYQ9Ot8Ev5_TNSTw)* wasn't my first KISS CD; that distinction belongs to *Smashes, Thrashes and Hits*, an album that was the lead-up to my first KISS concert earlier that summer, a thrilling, pyrotechnic rock show that I chose over attending the pool party of my crush.  While not as out there as *Music from 'The Elder'*, there is a certain longing in *MTV Unplugged,* something I picked up as an 18-year-old, stretching out in the new space of college, leaving the confines of high school and exploring new possibilities—take a class just to learn?  Sure! And hey, KISS *MTV Unplugged's* jewel case matched the red interior of my '86 Celica (with a Camry engine)!

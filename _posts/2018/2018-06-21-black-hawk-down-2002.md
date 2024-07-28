@@ -1,0 +1,15 @@
+---
+title: "Black Hawk Down (2002)"
+categories:
+- "2018"
+---
+
+It was another solid workout for me today.  At 3AM, I steeped a cup of black tea and went through my daily reading in Beeke's text along with my place in the Bible, spent time in prayer with a few worship songs—check out my Yellow Highligher Spotify playlist for a bevy of them.  I really ought to explore that genre more, though I hesitate with the large inflow of experiential-focused music—it's no longer about truth and worship but actually comes off a bit with a New Age seasoning.  And while I enjoy groups like Demon Hunter, mewithoutYou, etc., they are more of a commentary on life, than actual worship music.  Skillet, incidentally from Memphis, sometimes has worship and sometimes has material for a great workout. Oddly enough, despite the Memphis connection, the only time I saw them in concert was at the Cornerstone Festival in Illinois back in 2004.  Awhile back, I read that the lead singer, John Cooper, comes up with songs while on his treadmill—makes sense. I've liked their albums along the way, including their last one: Unleashed Beyond (Special Edition):
+
+I was tempted to forego my cardio in lieu of extending this quiet time, but I knew my focus was becoming blurred.  And, I knew how important it is to put that cardio in.  I really do need a 2-hour routine to make sure I put in a good workout.  I feel best when I leave a workout with a drenched shirt.
+
+The cardio I've been doing of late is 10 minutes on the treadmill followed by 10 minutes on the elliptical—alternating the direction each minute.  My reasoning is that it takes around 8-10 minutes for my body to get adjusted to a cardio machine, so when it does, I change it.  I'm still not running on the treadmill, but I do keep it cranked up to 5.5%.  In fact, I did a little bit of 6% today.  Thus, in lieu of speed, I just keep cranking it up for intensity.  My left foot complains a little, but not enough for me to change my routine yet.
+
+It was another Back day for me.  I increased the weight on my dumbbell front raises.  It began feeling a smidge too easy. The 2nd hour went by much faster than I anticipated.
+
+Speaking of anticipations, I'm really excited about Monday.  While I think I'll get very close to beating the percentage of weightloss from The First Expedition, I don't have the zeal of my earlier approach.  I really don't know where I'm at, but I think it'll be tough to beat out that initial water loss from the introduction. A truer comparison would be between The Second and Third Expeditions, which is something I will do.  But, we'll see where I am in comparison come Monday. I don't see how the weekly math will work out in my favor, but who knows?  Clearly, my BMR has dropped though I have tried to combat that with more caffeine.  I guess I could have tried strapping the equivalent of the weight loss from The First Expedition to my body, but it would just be physically awkward to carry around my 40lb dumbbell.

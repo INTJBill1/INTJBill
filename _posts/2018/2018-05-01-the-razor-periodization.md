@@ -1,0 +1,17 @@
+---
+title: "The Razor Periodization"
+categories:
+- "2018"
+---
+
+As I'm in my fourth week of working out, I feel as though I'm reached a good rhythm. I've passed the initial jarring that occurs when I start a completely fresh schedule. That said, I never want my engine to just idle; I've been revving things up, after all.
+
+I've been leaning more toward adopting interval training. You may recall from an earlier post how I've refrained from doing interals at the outset because I feared if I systematically pushed too hard, it would drain the life from my motivation. I also have fears about injury since I'm already working through an old injury with my left foot. Motivation and injury prevention are my two biggest issues to manage because failure on either will have all of this crashing to a stop. In essence, I'm building a *bend but don't break* regimen. Fortunately [my free safety](https://www.thoughtco.com/strong-safety-vs-free-safety-1336342) is my nutrition. Even if I did my last fly, I'd still shred the weight. That said, I'm adopting multiple approaches to cutting the fat, and one of them is intervals.
+
+Of course, I've already referenced my Tabata Taekwondo. I refuse to approach it in the manner many 119lb, twentysomethings say to approach it "100%", an all-out effort that conjures a demon-infused Richard Simmons in a cloud of cotton candy. I've done that in my teens and 20s—that lasts just long enough until the thrill of doing something new wears off or injury short circuits the process. In general, the problem I have with "going nuts" programs is the problem I had with Taebo from the 90s: the focus. What is the approach? The target? What's the real world application? Or are we just flailing our limbs out in a mass hysteria? When I apply Tabata to TKD, my approach is to go as fast as I can while maintaining clean technique, chiefly because practicing poor technique will beget more POOR TECHNIQUE. Sometimes I think fitness can lean toward completing the rep itself or the ego-driven upping the weight instead of the process itself. Sometimes I want to dial back some of my weight, because of my own tendency to rush through the eccentric motion and let gravity do the heavy lifting—I may just consider adjusting my training to underscore the negative motion if I'm going to be consistent with my TKD.
+
+All of that aside, clearly, I am bringing in intervals into my training, and I'm testing it out further with my bike cardio. I don't trust my left foot enough for the treadmill until I drop more weight. Nevertheless, I gave it a go on the bike this morning. I'm still a little leery about it, as during the more intense times, my foot aches. See, I don't mind huffing-and-puffing or my legs hurting in a good way, but its the structural ache that can be a workout killer. The question is, how much bend do I have before the break? Yet, on the flip side, I don't want to muddle through and be dull. There's this great line from *Battlestar Galactica: Razor* from Admiral Cain:
+
+> You showed me that you were capable of setting aside your fears, setting aside your hesitation, and even your revulsion...Every natural inhibition...When you can be this for as long as you have to be, then you're a razor.
+
+The crux of all of this is how long. And this process isn't a two-week sprint; this is a multi-month approach. Flaming out in the first stretch won't get me anywhere.
