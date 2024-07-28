@@ -26,7 +26,7 @@ My 2020 post [*Jan Hammer - Crockett's Theme '84*](/2020-06-30-jan-hammer-crocke
 
 These days, I feel younger than *that* 34-year-old.  I hear AccuRadio playing *Be My Lover* and I forget this beard of mine is of a gray wolf's.
 
-Shouldn't I be embarking on my old Bolton-to-Beale route, that fabled drive through the night I would do before there was a 385?  A drive out to my school, then down Hwy 14 to ride North 240 to Riverside Drive, then circle on back with the southern loop.  
+Shouldn't I be embarking on my old Bolton-to-Beale route, that fabled drive through the night I would do before there was a 385?  A drive out to my school, then down Hwy 14 to ride north 240 to Riverside Drive, then circle on back with the southern loop.  
 
 It has been 30 years, but I still see the time clock, the breakroom—even the parking lot at Kroger.  As we were pushing carts back under the moonlight, the prettiest girl there told me that although she had been asked out by another guy that very same night, she was more interested in going out with someone "smart"—her words, not mine*. She heavily hinted that she meant me.  So I asked.  
 
