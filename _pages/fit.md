@@ -91,34 +91,3 @@ fat: 200+ g; protein: <75 g; sugar: ~0 g
 
 </div>
 {: .intake__table }
-
-## Rewards for Achieving Small Victory Conditions
-
-1. ★ **@199 lbs** (2005 & 2021)
-    * Black pepper 
-    * Cayenne
-    * Mustard
-    * **To do:** Develop my own spice mix base.
-
-2. ★★ **@189 lbs** (2021)
-    * All pepper powders
-    * Vinegars
-    * Green/white teas
-    * **To do:** Develop my own hot sauce base.
-
-3. ★★★ **@179 lbs** (1997)
-    * All seasonings 
-    * Flavored water
-    * Black/oolong teas
-    * **To do:** Augment my spice mixes and hot sauces.
-
-4. ★★★★ **@169 lbs** (1996)
-    * Limited heavy whipping cream
-    * Limited cheese
-    * Herbal teas
-    * **To do:** Develop my own jerky.
-
-5. ★★★★★ **@163 lbs** (1995)
-    * ***Something from 1995's 163:***  
-    *Raise a Snapple Zero Sugar Peach Tea to celebrate life at 17.  Cherish the memories of that world and honor the people whose presence remains in my heart.*
-    * **To do:** Tell [December '03](/2003-12-05-developing-milestones/): "We did it!"
