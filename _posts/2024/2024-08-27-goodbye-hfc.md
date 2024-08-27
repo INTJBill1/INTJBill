@@ -4,7 +4,7 @@ categories:
 - "2024"
 ---
 
-Things have settled down for me.  Do I feel like I've had a heart attack?  They tell me I have and it nearly killed me.  They say it's not even the first!  I had the symptoms–chest pain, shortness of breath, and cold sweats, but I feel those things sometimes when I am in rhythm with Cayenne in our salsa dancing.  But never have I felt that dreaded *impending doom*, the sort of thing involves a dystopian future of a totalarian technocracy.
+Things have settled down for me.  Do I feel like I've had a heart attack?  They tell me I have and it nearly killed me.  They say it's not even the first!  I had the symptoms–chest pain, shortness of breath, and cold sweats, but I feel those things sometimes when I am in rhythm with Cayenne in our salsa dancing.  But never have I felt that dreaded *impending doom*, the sort of thing involves a dystopian future of a totalitarian technocracy.
 
 Regardless of my reflections, this is my reality.  I am in a holding pattern, weeks away from surgery, gazing across the landscape of eternity.
 
