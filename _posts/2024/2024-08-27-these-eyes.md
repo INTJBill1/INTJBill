@@ -1,5 +1,5 @@
 ---
-title: "\"These Eyes:\" Goodbye, HFC"
+title: "\"These Eyes\""
 categories:
 - "2024"
 ---
@@ -13,16 +13,3 @@ I'm young in this space and relatively fit—there's reason to expect a positive
 I abhor my recent glucose/ketone numbers.  The recent additions of heavy whipping cream, cream cheese, and aspartame abominations were a fail, even in the case of the former two, it was in a controlled context as applied as a pre-measured oopsie cake.  As to those sugar-like waters, who KNOWS what those chemicals do.  And it violated my rule of consuming things that are sweet regardless as to printed calories.  My own numbers reflect something screwy with it all.  We just don't get somethin' for nothin'.
 
 My numbers from the bloodwork yesterday were not a resounding success either, but mirrored my hospital values: heart failure impacts kidney health.
-
-Thus, I am moving on from a strict ketogenic diet to a strict-strict ketogenic diet of salts, water, and the *Choose Your Own Adventure* from below:
-
-- Cow
-- Sheep
-- Goat 
-- Deer
-- Bison
-- Elk
-- Moose
-- Caribou / Reindeer
-- Antelope
-- Giraffe
